@@ -8,7 +8,6 @@ Hi, my name is Stav Setty and I am currently a junior at the [University of Geor
 - Strong technical accumen 
 
 ## PROJECTS
-Some projects I have worked on: 
 - School projects 
   - Weebly, WIX, Wordpress, Sketch   
 - One of my first basic experiences with web design -- I created a website (not currently active) for a small marketing business 
@@ -16,7 +15,7 @@ Some projects I have worked on:
 
 ![Image](markboost.jpg)
 - Designed a mock SQL database for UGA Sustainability and Athens hotel business 
-- Worked on [Setty Gallery](http://www.settygallery.com)
+- Worked on small jewelry business, [Setty Gallery](http://www.settygallery.com)
 
 ## MISCELLANOUS  
 
