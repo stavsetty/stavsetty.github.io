@@ -6,8 +6,8 @@ Hi, my name is Stav Setty and I am currently a junior at the [University of Geor
 
 ## PROJECTS
 Some projects I have worked on: 
-- School project 
-- WIX Websites 
+- School projects 
+- WIX Website 
 
 
 ## MISCELLANOUS  
@@ -27,6 +27,9 @@ ss92090@uga.edu
 [Linkedin](https://www.linkedin.com/in/stavsetty/)
 
 ![Image](smiley.gif)
+
+
+
 
 
 You can use the [editor on GitHub](https://github.com/stavsetty/stavsetty.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
