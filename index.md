@@ -26,7 +26,7 @@ Hi, my name is Stav Setty and I am currently a junior at the [University of Geor
 ## CONTACT ME
 Feel free to [email](mailto:stavsetty@gmail.com) me with any questions you may have or just to say hello! 
 
-[stavsetty@gmail.com](stavsetty@gmail.com)
+[stavsetty@gmail.com](mailto:stavsetty@gmail.com)
 
 [linkedin](https://www.linkedin.com/in/stavsetty/) 
 
