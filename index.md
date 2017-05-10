@@ -10,7 +10,7 @@ Some projects I have worked on:
 - WIX Websites 
 
 
-## MISCELANOUS  
+## MISCELLANOUS  
 
 Designed a thousand t-shirts for University-wide pro-Israel event 
 
