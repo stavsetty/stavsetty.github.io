@@ -1,12 +1,16 @@
-## Stav Setty
+# About Me 
 
 I am currently a junior at the [University of Georgia](http://www.uga.edu) studying [Management Information Systems](http://www.terry.uga.edu/undergraduate/majors/management-information-systems) as well as an Entrepreneurship certificate. 
+
+## Projects
+Some projects I have worked on: 
+
 
 ## Contact Me 
 Feel free to email me with any questions you may have or just to say hello! 
 ss92090@uga.edu 
 
-Some projects I have worked on: 
+![Image](src)
 
 
 You can use the [editor on GitHub](https://github.com/stavsetty/stavsetty.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
