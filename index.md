@@ -30,6 +30,4 @@ Feel free to email me with any questions you may have or just to say hello!
 
 [linkedin](https://www.linkedin.com/in/stavsetty/) 
 
-![Image](smiley.gif)
-
 
