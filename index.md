@@ -1,10 +1,9 @@
-## Welcome to Stav's Portfolio 
-Stav Setty
+## Stav Setty
 
-Student | Univeristy of Georgia 
+I am currently a junior at the [University of Georgia](http://www.uga.edu) studying [Management Information Systems](http://www.terry.uga.edu/undergraduate/majors/management-information-systems) as well as an Entrepreneurship certificate. 
 
-I am currently a junior at the [University of Georgia](http://www.uga.edu)
-
+## Contact Me 
+Feel free to email me with any questions you may have or just to say hello! 
 ss92090@uga.edu 
 
 Some projects I have worked on: 
