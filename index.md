@@ -10,6 +10,7 @@ Some projects I have worked on:
 
 
 ![Image](markboost.jpg)
+- Designed an SQL database for hotel business 
 
 ## MISCELLANOUS  
 
@@ -17,6 +18,9 @@ Some projects I have worked on:
 
 ![Image](tshirt.jpg)
 
+## OTHER SKILLS 
+- Proficiency in SQL 
+- Some HTML, CSS and Java 
 
 ## CONTACT ME
 Feel free to email me with any questions you may have or just to say hello! 
