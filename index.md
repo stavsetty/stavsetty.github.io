@@ -3,6 +3,8 @@ Stav Setty
 
 Student | Univeristy of Georgia 
 
+I am currently a junior at the [University of Georgia](http://www.uga.edu)
+
 ss92090@uga.edu 
 
 Some projects I have worked on: 
