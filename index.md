@@ -5,6 +5,7 @@ Hi, my name is Stav Setty and I am currently a junior at the [University of Geor
 ## SKILLS 
 - Proficiency in SQL 
 - Some HTML, CSS and Java 
+- Strong technical accumen 
 
 ## PROJECTS
 Some projects I have worked on: 
@@ -14,7 +15,7 @@ Some projects I have worked on:
 
 
 ![Image](markboost.jpg)
-- Designed an SQL database for hotel business 
+- Designed a mock SQL database for UGA Sustainability 
 
 ## MISCELLANOUS  
 
@@ -25,7 +26,7 @@ Some projects I have worked on:
 ## CONTACT ME
 Feel free to email me with any questions you may have or just to say hello! 
 
-ss92090@uga.edu 
+stavsetty@gmail.com 
 
 [linkedin](https://www.linkedin.com/in/stavsetty/) 
 
