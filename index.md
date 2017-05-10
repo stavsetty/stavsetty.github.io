@@ -19,14 +19,14 @@ Some projects I have worked on:
 
 ## MISCELLANOUS  
 
-- Designed a thousand t-shirts for University-wide pro-Israel event 
+- Designed a thousand t-shirts for university-wide pro-Israel event 
 
 ![Image](tshirt.jpg)
 
 ## CONTACT ME
 Feel free to email me with any questions you may have or just to say hello! 
 
-stavsetty@gmail.com 
+(stavsetty@gmail.com)
 
 [linkedin](https://www.linkedin.com/in/stavsetty/) 
 
