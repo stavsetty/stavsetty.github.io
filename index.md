@@ -4,7 +4,7 @@ Hi, my name is Stav Setty and I am currently a junior at the [University of Geor
 
 ## SKILLS 
 - Proficiency in SQL 
-- Some HTML, CSS and Java 
+- Basic HTML, CSS and Java 
 - Strong technical accumen 
 
 ## PROJECTS
