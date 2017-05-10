@@ -12,6 +12,7 @@ Some projects I have worked on:
 ## MISC 
 
 Designed a thousand t-shirts for school-wide pro-Israel event 
+
 ![Image](tshirt.jpg)
 ![Image](smiley.gif)
 
