@@ -11,11 +11,11 @@ Hi, my name is Stav Setty and I am currently a junior at the [University of Geor
 - School projects 
   - Weebly, WIX, Wordpress, Sketch   
   - Designed a [mock SQL database](http://share.pho.to/Ah2fd) for UGA Sustainability and Athens hotel business 
+- Worked on small jewelry business, [Setty Gallery](http://www.settygallery.com)
 - One of my first basic experiences with web design -- I created a website (not currently active) for a small marketing business 
 
 
 ![Image](markboost.jpg)
-- Worked on small jewelry business, [Setty Gallery](http://www.settygallery.com)
 
 ## MISCELLANOUS  
 
