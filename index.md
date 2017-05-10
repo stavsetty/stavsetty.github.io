@@ -23,6 +23,7 @@ Designed a thousand t-shirts for University-wide pro-Israel event
 Feel free to email me with any questions you may have or just to say hello! 
 
 ss92090@uga.edu 
+
 [Linkedin](https://www.linkedin.com/in/stavsetty/)
 
 ![Image](smiley.gif)
