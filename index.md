@@ -7,8 +7,9 @@ Hi, my name is Stav Setty and I am currently a junior at the [University of Geor
 ## PROJECTS
 Some projects I have worked on: 
 - School project 
+
 ### MISC 
-![Image](tshirt.png)
+![Image](tshirt.jpg)
 ![Image](smiley.gif)
 
 ## CONTACT ME
