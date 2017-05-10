@@ -2,6 +2,10 @@
 
 Hi, my name is Stav Setty and I am currently a junior at the [University of Georgia](http://www.uga.edu) studying [Management Information Systems](http://www.terry.uga.edu/undergraduate/majors/management-information-systems) as well as the Entrepreneurship certificate program. 
 
+## SKILLS 
+- Proficiency in SQL 
+- Some HTML, CSS and Java 
+
 ## PROJECTS
 Some projects I have worked on: 
 - School projects 
@@ -17,10 +21,6 @@ Some projects I have worked on:
 - Designed a thousand t-shirts for University-wide pro-Israel event 
 
 ![Image](tshirt.jpg)
-
-## OTHER SKILLS 
-- Proficiency in SQL 
-- Some HTML, CSS and Java 
 
 ## CONTACT ME
 Feel free to email me with any questions you may have or just to say hello! 
