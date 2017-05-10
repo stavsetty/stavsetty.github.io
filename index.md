@@ -9,11 +9,13 @@ Some projects I have worked on:
 - School project 
 
 
-## MISC 
+## MISCELANOUS  
 
 Designed a thousand t-shirts for school-wide pro-Israel event 
 
 ![Image](tshirt.jpg)
+
+
 ![Image](smiley.gif)
 
 ## CONTACT ME
