@@ -7,6 +7,7 @@ Hi, my name is Stav Setty and I am currently a junior at the [University of Geor
 ## PROJECTS
 Some projects I have worked on: 
 - School projects 
+  - Weebly, WIX 
 - WIX Website 
 
 
@@ -24,7 +25,7 @@ Feel free to email me with any questions you may have or just to say hello!
 
 ss92090@uga.edu 
 
-[Linkedin](https://www.linkedin.com/in/stavsetty/)
+[LINKEDIN](https://www.linkedin.com/in/stavsetty/) 
 
 ![Image](smiley.gif)
 
