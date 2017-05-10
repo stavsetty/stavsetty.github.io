@@ -16,6 +16,7 @@ Some projects I have worked on:
 
 ![Image](markboost.jpg)
 - Designed a mock SQL database for UGA Sustainability and Athens hotel business 
+- Worked on [Setty Gallery](http://www.settygallery.com)
 
 ## MISCELLANOUS  
 
