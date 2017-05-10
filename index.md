@@ -7,6 +7,7 @@ Some projects I have worked on:
 - School projects 
   - Weebly, WIX, Wordpress, Sketch   
 - One of my first basic experiences with web design -- I designed a website (not currently active) for a small marketing business 
+
 ![Image](markboost.jpg)
 
 ## MISCELLANOUS  
