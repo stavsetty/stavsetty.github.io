@@ -8,7 +8,10 @@ Hi, my name is Stav Setty and I am currently a junior at the [University of Geor
 Some projects I have worked on: 
 - School project 
 
+
 ### MISC 
+
+Designed a thousand t-shirts for school-wide pro-Israel event 
 ![Image](tshirt.jpg)
 ![Image](smiley.gif)
 
