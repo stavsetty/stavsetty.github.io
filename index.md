@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-Hi, my name is Stav Setty and I am currently a student at the [University of Georgia](http://www.uga.edu) (Class of 2019) studying [Management Information Systems](http://www.terry.uga.edu/undergraduate/majors/management-information-systems) as well as the Entrepreneurship certificate program. 
+Hi, my name is Stav Setty and I'm a third year student at the [University of Georgia](http://www.uga.edu) studying [Management Information Systems](http://www.terry.uga.edu/undergraduate/majors/management-information-systems) as well as the Entrepreneurship certificate program. 
 
 ## SKILLS 
 - Proficiency in SQL 
