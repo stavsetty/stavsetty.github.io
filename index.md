@@ -9,7 +9,7 @@ Some projects I have worked on:
 - School projects 
   - Weebly, WIX 
 - WIX Website 
-
+![Image](mboost.jpg)
 
 ## MISCELLANOUS  
 
