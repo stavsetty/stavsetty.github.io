@@ -5,6 +5,9 @@ Student | Univeristy of Georgia
 
 ss92090@uga.edu 
 
+Some projects I have worked on: 
+
+
 You can use the [editor on GitHub](https://github.com/stavsetty/stavsetty.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
