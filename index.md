@@ -26,7 +26,7 @@ Some projects I have worked on:
 ## CONTACT ME
 Feel free to email me with any questions you may have or just to say hello! 
 
-(stavsetty@gmail.com)
+[stavsetty@gmail.com](stavsetty@gmail.com)
 
 [linkedin](https://www.linkedin.com/in/stavsetty/) 
 
