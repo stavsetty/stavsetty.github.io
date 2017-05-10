@@ -6,7 +6,7 @@ Hi, my name is Stav Setty and I am currently a junior at the [University of Geor
 Some projects I have worked on: 
 - School projects 
   - Weebly, WIX, Wordpress, Sketch   
-- One of my first experiences with web design -- 
+- One of my first basic experiences with web design -- 
   I designed a website (not currently active) for a small marketing business 
 ![Image](mboost.jpg)
 
