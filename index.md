@@ -8,7 +8,7 @@ Hi, my name is Stav Setty and I am currently a junior at the [University of Geor
 Some projects I have worked on: 
 - School projects 
   - Weebly, WIX 
-- WIX Website 
+- I designed a website (not currently active) for a small marketing business 
 ![Image](mboost.jpg)
 
 ## MISCELLANOUS  
