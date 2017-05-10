@@ -10,7 +10,7 @@ Hi, my name is Stav Setty and I am currently a junior at the [University of Geor
 ## PROJECTS
 - School projects 
   - Weebly, WIX, Wordpress, Sketch   
-  - Designed a [mock SQL database](https://ibb.co/h1w86Q) for UGA Sustainability and Athens hotel business 
+  - Designed a [mock SQL database](http://share.pho.to/Ah2fd) for UGA Sustainability and Athens hotel business 
 - One of my first basic experiences with web design -- I created a website (not currently active) for a small marketing business 
 
 
