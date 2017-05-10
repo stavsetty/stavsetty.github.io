@@ -13,7 +13,7 @@ Some projects I have worked on:
 
 ## MISCELLANOUS  
 
-Designed a thousand t-shirts for University-wide pro-Israel event 
+- Designed a thousand t-shirts for University-wide pro-Israel event 
 
 ![Image](tshirt.jpg)
 
@@ -23,7 +23,7 @@ Feel free to email me with any questions you may have or just to say hello!
 
 ss92090@uga.edu 
 
-[LINKEDIN](https://www.linkedin.com/in/stavsetty/) 
+[linkedin](https://www.linkedin.com/in/stavsetty/) 
 
 ![Image](smiley.gif)
 
