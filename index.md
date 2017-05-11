@@ -18,7 +18,7 @@ I'm passionate about the <b>intersection</b> between  <b>business</b> and <b>tec
     - UI elements: [Sketch login form](http://imgur.com/a/jcT32) 
     - [Apple watch activity rings](http://imgur.com/a/nZTUE) 
   - Designed a [mock SQL database](http://share.pho.to/Ah2fd) for UGA Sustainability and Athens hotel business 
-  - Weebly, WIX, Wordpress experience  
+  - Weebly, Wix, Wordpress experience  
 - One of my [first basic introductions](https://ibb.co/cpOoO5) to web design - I created a website (not currently active) for a small marketing business 
 
 <img src="Login UI.png">
@@ -27,7 +27,7 @@ I'm passionate about the <b>intersection</b> between  <b>business</b> and <b>tec
 
 ## MISCELLANEOUS  
 
-- I designed [a thousand t-shirts](https://ibb.co/g7g8O5) for university-wide pro-Israel event (on small budget) 
+- I [designed a thousand t-shirts](https://ibb.co/g7g8O5) for university-wide pro-Israel event (on small budget) 
 
 ![Image](tshirt.jpg)
 
