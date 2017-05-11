@@ -19,7 +19,7 @@ I'm passionate about the <b>intersection</b> between  <b>business</b> and <b>tec
     - [Apple watch activity rings](http://imgur.com/a/nZTUE) 
   - Designed a [mock SQL database](http://share.pho.to/Ah2fd) for UGA Sustainability and Athens hotel business 
   - Weebly, WIX, Wordpress   
-- One of my [first basic experiences](https://ibb.co/cpOoO5) with web design -- I created a website (not currently active) for small marketing business 
+- One of my [first simple introductions](https://ibb.co/cpOoO5) to web design -- I created a website (not currently active) for small marketing business 
 
 <img src="Login UI.png">
 <img src="Artboard.png">
