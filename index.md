@@ -16,7 +16,7 @@ I'm passionate about the <b>intersection</b> between  <b>business</b> and <b>tec
 - School projects 
   - Created UI elements with Sketch - [Sketch login form](http://imgur.com/a/jcT32) 
   - Designed a [mock SQL database](http://share.pho.to/Ah2fd) for UGA Sustainability and Athens hotel business 
-  - Weebly, WIX, Wordpress, Sketch   
+  - Weebly, WIX, Wordpress   
 - One of my [first basic experiences](https://ibb.co/cpOoO5) with web design -- I created a website (not currently active) for small marketing business 
 
 <img src="Login UI.png">
