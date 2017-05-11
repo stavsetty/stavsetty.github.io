@@ -12,10 +12,11 @@ I'm passionate about the intersection between business and technology.
 ## PROJECTS
 - Currently working on landing page website for [Bluejay App](http://bluejay-app.com/#) releasing soon
 - School projects 
-  - Weebly, WIX, Wordpress, Sketch   
   - Designed a [mock SQL database](http://share.pho.to/Ah2fd) for UGA Sustainability and Athens hotel business 
+  - Weebly, WIX, Wordpress, Sketch   
+
 - Worked on family jewelry business, [Setty Gallery](http://www.settygallery.com)
-- One of my first basic experiences with web design -- I created a website (not currently active) for a small marketing business 
+- One of my first basic experiences with web design -- I created a [website](https://ibb.co/gyoGAk) (not currently active) for small marketing business 
 
 
 ![Image](markboost.jpg)
