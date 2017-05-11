@@ -21,8 +21,8 @@ I'm passionate about the <b>intersection</b> between  <b>business</b> and <b>tec
   - Weebly, WIX, Wordpress experience  
 - One of my [first basic introductions](https://ibb.co/cpOoO5) to web design - I created a website (not currently active) for a small marketing business 
 
-<img src="Artboard.png">
 <img src="Login UI.png">
+<img src="Artboard.png">
 
 
 ## MISCELLANEOUS  
