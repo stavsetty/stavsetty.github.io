@@ -4,6 +4,9 @@ Hi, my name is Stav Setty and I'm a third year student at the [University of Geo
 
 I'm passionate about the **intersection** between **business** and **technology**. :sparkles:
 
+![Image](stav.jpg)
+
+
 ## SKILLS 
 - Proficiency in SQL 
 - Basic HTML, CSS and Java 
@@ -16,9 +19,6 @@ I'm passionate about the **intersection** between **business** and **technology*
   - Designed a [mock SQL database](http://share.pho.to/Ah2fd) for UGA Sustainability and Athens hotel business 
   - Weebly, WIX, Wordpress, Sketch   
 - One of my [first basic experiences](https://ibb.co/cpOoO5) with web design -- I created a website (not currently active) for small marketing business 
-
-
-![Image](markboost.jpg)
 
 ## MISCELLANEOUS  
 
