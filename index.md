@@ -22,7 +22,7 @@ I'm passionate about the intersection between business and technology.
 
 ## MISCELLANOUS  
 
-- Designed a thousand t-shirts for university-wide pro-Israel event 
+- Designed a thousand t-shirts for university-wide pro-Israel event (small budget) 
 
 ![Image](tshirt.jpg)
 
