@@ -4,7 +4,7 @@ Hi, my name is Stav Setty and I'm a third year student at the [University of Geo
 
 I'm passionate about the intersection between business and technology. 
 
-![]({{site.baseurl}}//Screen%20Shot%202017-05-10%20at%2010.54.17%20PM.png)
+![Image](Screen%20Shot%202017-05-10%20at%2010.54.17%20PM.png)
 
 ## SKILLS 
 - Proficiency in SQL 
