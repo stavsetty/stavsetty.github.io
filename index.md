@@ -33,4 +33,4 @@ Feel free to [email](mailto:stavsetty@gmail.com) me with any questions you may h
 
 [linkedin](https://www.linkedin.com/in/stavsetty/)
 
-<img src="stav.jpg">
+<img src="stav.png">
