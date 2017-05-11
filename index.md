@@ -13,7 +13,7 @@ I'm passionate about the intersection between business and technology.
 - School projects 
   - Weebly, WIX, Wordpress, Sketch   
   - Designed a [mock SQL database](http://share.pho.to/Ah2fd) for UGA Sustainability and Athens hotel business 
-- Worked on small jewelry business, [Setty Gallery](http://www.settygallery.com)
+- Worked on family jewelry business, [Setty Gallery](http://www.settygallery.com)
 - One of my first basic experiences with web design -- I created a website (not currently active) for a small marketing business 
 
 
