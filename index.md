@@ -10,6 +10,7 @@ I'm passionate about the intersection between business and technology.
 - Strong technical accumen 
 
 ## PROJECTS
+- Currently working on landing page website for [Bluejay App](http://bluejay-app.com/#) releasing soon
 - School projects 
   - Weebly, WIX, Wordpress, Sketch   
   - Designed a [mock SQL database](http://share.pho.to/Ah2fd) for UGA Sustainability and Athens hotel business 
@@ -18,7 +19,6 @@ I'm passionate about the intersection between business and technology.
 
 
 ![Image](markboost.jpg)
-- Currently working on landing page website for [Bluejay app](http://bluejay-app.com/#) soon releasing 
 
 ## MISCELLANOUS  
 
