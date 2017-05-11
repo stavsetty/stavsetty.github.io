@@ -3,6 +3,7 @@
 Hi, my name is Stav Setty and I'm a third year student at the [University of Georgia](http://www.uga.edu) studying [Management Information Systems](http://www.terry.uga.edu/undergraduate/majors/management-information-systems) as well as the Entrepreneurship certificate program. 
 
 I'm passionate about the <b>intersection</b> between  <b>business</b> and <b>technology</b> :sparkles:
+
 <p align="center">
 <img src="stav-3.jpg>
 </p>
