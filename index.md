@@ -10,7 +10,7 @@ I'm passionate about the <b>intersection</b> between  <b>business</b> and <b>tec
 - Basic HTML, CSS and Java 
 - Strong technical accumen 
 
-## PROJECTS
+## MY WORK
 - Currently working on landing page website for [Bluejay App](http://bluejay-app.com/#) releasing soon
 - Worked on family jewelry business, [Setty Gallery](http://www.settygallery.com)
 - School projects 
@@ -19,7 +19,7 @@ I'm passionate about the <b>intersection</b> between  <b>business</b> and <b>tec
     - [Apple watch activity rings](http://imgur.com/a/nZTUE) 
   - Designed a [mock SQL database](http://share.pho.to/Ah2fd) for UGA Sustainability and Athens hotel business 
   - Weebly, WIX, Wordpress   
-- One of my [first simple introductions](https://ibb.co/cpOoO5) to web design -- I created a website (not currently active) for small marketing business 
+- One of my [first basic introductions](https://ibb.co/cpOoO5) to web design - I created a website (not currently active) for a small marketing business 
 
 <img src="Login UI.png">
 <img src="Artboard.png">
