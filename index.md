@@ -4,7 +4,7 @@ Hi, my name is Stav Setty and I'm a third year student at the [University of Geo
 
 I'm passionate about the intersection between business and technology. 
 
-[google](www.google.com)
+[google](http://www.google.com)
 ## SKILLS 
 - Proficiency in SQL 
 - Basic HTML, CSS and Java 
