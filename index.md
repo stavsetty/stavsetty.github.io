@@ -16,14 +16,14 @@ I'm passionate about the intersection between business and technology.
   - Weebly, WIX, Wordpress, Sketch   
 
 - Worked on family jewelry business, [Setty Gallery](http://www.settygallery.com)
-- One of my first basic experiences with web design -- I created a [website](https://ibb.co/gyoGAk) (not currently active) for small marketing business 
+- One of my first basic experiences with web design -- I created a website (not currently active) for small marketing business 
 
 
 ![Image](markboost.jpg)
 
 ## MISCELLANOUS  
 
-- Designed a thousand t-shirts for university-wide pro-Israel event (small budget) 
+- Designed a [thousand t-shirts](https://ibb.co/g7g8O5) for university-wide pro-Israel event (small budget) 
 
 ![Image](tshirt.jpg)
 
