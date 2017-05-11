@@ -18,7 +18,7 @@ I'm passionate about the <b>intersection</b> between  <b>business</b> and <b>tec
     - UI elements: [Sketch login form](http://imgur.com/a/jcT32) 
     - [Apple watch activity rings](http://imgur.com/a/nZTUE) 
   - Designed a [mock SQL database](http://share.pho.to/Ah2fd) for UGA Sustainability and Athens hotel business 
-  - Weebly, WIX, Wordpress   
+  - Weebly, WIX, Wordpress experience  
 - One of my [first basic introductions](https://ibb.co/cpOoO5) to web design - I created a website (not currently active) for a small marketing business 
 
 <img src="Login UI.png">
