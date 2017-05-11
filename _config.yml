@@ -1,7 +1,6 @@
 theme: jekyll-theme-cayman
 title: STAV SETTY
 description: welcome to my portfolio :sparkles:
-gems:
-  - jemoji
+jemoji
 
 
