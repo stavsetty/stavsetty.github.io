@@ -18,6 +18,7 @@ I'm passionate about the intersection between business and technology.
 
 
 ![Image](markboost.jpg)
+- Currently working on landing page webstte for [Bluejay app](http://bluejay-app.com/#) soon releasing 
 
 ## MISCELLANOUS  
 
