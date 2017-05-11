@@ -32,3 +32,5 @@ Feel free to [email](mailto:stavsetty@gmail.com) me with any questions you may h
 [stavsetty@gmail.com](mailto:stavsetty@gmail.com)
 
 [linkedin](https://www.linkedin.com/in/stavsetty/)
+
+<img src="stav.jpg">
