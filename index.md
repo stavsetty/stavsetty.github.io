@@ -27,7 +27,7 @@ I'm passionate about the <b>intersection</b> between  <b>business</b> and <b>tec
 
 ## MISCELLANEOUS  
 
-- Designed a [thousand t-shirts](https://ibb.co/g7g8O5) for university-wide pro-Israel event (on small budget) 
+- I designed a [thousand t-shirts](https://ibb.co/g7g8O5) for university-wide pro-Israel event (on small budget) 
 
 ![Image](tshirt.jpg)
 
