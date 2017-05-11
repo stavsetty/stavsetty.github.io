@@ -14,12 +14,16 @@ I'm passionate about the <b>intersection</b> between  <b>business</b> and <b>tec
 - Currently working on landing page website for [Bluejay App](http://bluejay-app.com/#) releasing soon
 - Worked on family jewelry business, [Setty Gallery](http://www.settygallery.com)
 - School projects 
-  - Created UI elements with Sketch - [Sketch login form](http://imgur.com/a/jcT32) 
+  - Sketch
+    - UI elements: [Sketch login form](http://imgur.com/a/jcT32) 
+    - [Apple watch activity rings](http://imgur.com/a/nZTUE) 
   - Designed a [mock SQL database](http://share.pho.to/Ah2fd) for UGA Sustainability and Athens hotel business 
   - Weebly, WIX, Wordpress   
 - One of my [first basic experiences](https://ibb.co/cpOoO5) with web design -- I created a website (not currently active) for small marketing business 
 
 <img src="Login UI.png">
+<img src="Artboard.png">
+
 
 ## MISCELLANEOUS  
 
