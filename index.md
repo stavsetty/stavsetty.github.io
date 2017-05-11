@@ -15,13 +15,12 @@ I'm passionate about the **intersection** between **business** and **technology*
 - School projects 
   - Designed a [mock SQL database](http://share.pho.to/Ah2fd) for UGA Sustainability and Athens hotel business 
   - Weebly, WIX, Wordpress, Sketch   
-
-- One of my first basic experiences with web design -- I created a website (not currently active) for small marketing business 
+- One of my [first basic experiences](https://ibb.co/gyoGAk) with web design -- I created a website (not currently active) for small marketing business 
 
 
 ![Image](markboost.jpg)
 
-## MISCELLANOUS  
+## MISCELLANEOUS  
 
 - Designed a [thousand t-shirts](https://ibb.co/g7g8O5) for university-wide pro-Israel event (on small budget) 
 
