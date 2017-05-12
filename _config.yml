@@ -3,6 +3,6 @@ title: STAV SETTY
 description: welcome to my portfolio 
 gems:
   - jemoji
-show_downloads: true
+show_downloads: ["true"]
 
 
