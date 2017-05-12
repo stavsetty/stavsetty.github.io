@@ -1,7 +1,9 @@
 ---
 ---
+$header-heading-color: #fff
 $section-headings-color: #147599;
 @import "{{ site.theme }}";
+  h2,
   h3,
   h4,
   h5,
@@ -9,7 +11,7 @@ $section-headings-color: #147599;
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
-    color: #147599;
+    color: $section-headings-color;
   }
 
 .page-header {
