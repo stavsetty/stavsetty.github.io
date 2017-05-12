@@ -2,6 +2,16 @@
 ---
 $section-headings-color: #147599;
 @import "{{ site.theme }}";
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: #147599;
+  }
+
 .page-header {
   color: $header-heading-color;
   text-align: center;
@@ -33,13 +43,4 @@ body {
   line-height: 1.5;
   color: $body-text-color;
 }
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-    font-weight: normal;
-    color: #147599;
-  }
+ 
