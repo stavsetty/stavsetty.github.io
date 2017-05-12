@@ -18,7 +18,7 @@ I'm passionate about the <b>intersection</b> between  <b>business</b> and <b>tec
     - [Apple watch activity rings](http://imgur.com/a/nZTUE) 
   - Designed a [mock SQL database](http://share.pho.to/Ah2fd) for UGA Sustainability and Athens hotel business 
   - Weebly, Wix, Wordpress experience  
-- Video production: currently working on Bar Mitzah video, [past Bar Mitzvah project](https://www.youtube.com/watch?v=ReIv-pZ4ONY)
+- Video production: currently working on Bar Mitzah video, past projects: [Bar Mitzvah video](https://www.youtube.com/watch?v=ReIv-pZ4ONY), [Israeli Scouts](https://drive.google.com/file/d/0BxAY6kprDtmbV3JhUm9qZHItRW8/view?usp=sharing)
 - One of my [first basic introductions](https://ibb.co/cpOoO5) to web design - I created a website (not currently active) for a small marketing business 
 
 <img src="Login UI.png">
